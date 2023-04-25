@@ -30,7 +30,7 @@
     "uglify-js": "3.10.0"
   },
   "dependencies": {
-    "aws-sdk": "2.706.0",
+    "aws-sdk": "2.1354.0",
     "axios": "0.21.1",
     "compression": "1.7.4",
     "ejs": "3.1.3",
