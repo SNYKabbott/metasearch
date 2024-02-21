@@ -1,4 +1,4 @@
-FROM node:14.16
+FROM node:14.21.0
 
 WORKDIR /code
 
